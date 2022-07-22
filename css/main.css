@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-image: linear-gradient(to left, whitesmoke, rgb(46, 42, 42));
+}
+
+h1{
+    color: #F4D03F;
+}
+
+.conoce-productos{
+    color: #F4D03F;
+}
+
+.botonProductos{
+    margin: 6.2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.verProductos{
+    background-color: #F4D03F;
+    margin: 0.3rem;
+    padding: 0.6rem;
+    text-align: center;
+    border: 0.3rem outset rgba(255, 255, 0, 0.507);
+    border-radius: 3rem;
+}
+
+.botonProductos .verProductos a{
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+}
+
+footer{
+    height: 6.2rem;
+    display: flex;
+    align-items: flex-end;
+    background-image: linear-gradient(to left, whitesmoke, rgb(46, 42, 42));
+}
+
+
+footer h4{
+    font-size: small;
+    color: #F4D03F;
+}
