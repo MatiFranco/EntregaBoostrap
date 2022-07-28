@@ -47,3 +47,12 @@ footer h4{
     font-size: small;
     color: #F4D03F;
 }
+
+.titulo, .infoNosotros{
+    margin-top: 4rem;
+}
+
+.paginaNosotros{
+    color: aliceblue;
+}
+
