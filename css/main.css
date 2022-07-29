@@ -50,9 +50,45 @@ footer h4{
 
 .titulo, .infoNosotros{
     margin-top: 4rem;
+    margin-bottom: 2rem;
 }
 
-.paginaNosotros{
+.paginaNosotros, .estiloEnvios, .estiloFormulario, .conoceP{
     color: aliceblue;
 }
 
+
+.contenidoEnvios{
+    margin-bottom: 2rem;
+}
+
+.menuProductos {
+    width: 80%;
+    margin: 0 auto;
+   }
+    .menuProductos nav ul {
+      display: flex;
+      justify-content: space-around; }
+    .menuProductos nav ul li {
+      list-style: none;
+      background-color: #F4D03F;
+      margin: 1.2rem;
+      padding: 1.2rem 3.1rem 1.2rem 3.1rem;
+      border: 0.3rem outset rgba(255, 255, 0, 0.507);
+      border-radius: 1.5rem;
+      text-align: center; }
+  
+  .fotosProductos {
+    height: 31rem;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-bottom: 2rem; }
+    .fotosProductos .img1 {
+      width: 20%; }
+    .fotosProductos .img2 {
+      width: 20%; }
+    .fotosProductos .img3 {
+      width: 19.3%; }
+    .fotosProductos .img4 {
+      width: 19.3%; }
